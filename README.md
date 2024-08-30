@@ -1,2 +1,2 @@
 # pojotime
-JS Date library made for best developer experience
+JS Date library made for developer experience
