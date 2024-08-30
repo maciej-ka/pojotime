@@ -1,0 +1,12 @@
+{
+  "name": "pojotime",
+  "version": "0.1.0",
+  "description": "JS Date library made for developer experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
